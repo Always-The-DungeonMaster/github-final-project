@@ -1,5 +1,4 @@
-# github-final-project for the IBM Back-End Development Professional Certification course. 
-
+#github-final-project 
 #This is A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
 Input:
